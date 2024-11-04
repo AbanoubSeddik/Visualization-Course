@@ -1,0 +1,10 @@
+type: marketplace
+title: Visualization Course
+language: English
+summary: "This project visualizes the distribution of video games across four platforms\
+  \ (PS4, XOne, PC, WiiU) by genre. Using matplotlib, it guides users through loading,\
+  \ filtering, and plotting data to create a clear, customized grouped bar chart. "
+programming_language: Python
+environment: unittest
+content:
+  - lesson1
